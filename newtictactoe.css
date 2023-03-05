@@ -1,0 +1,9 @@
+.slot{
+    border:solid blueviolet;
+    width: 100px;
+    font-size:100px;
+}
+/* This formats our slots for which we are building the tic toe board.*/
+body{
+    background-color: aquamarine;
+}
