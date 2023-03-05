@@ -66,7 +66,7 @@ if (currentplayer === X){
 
 
 // I followed along in Week 11 video this insures that when x it will go to and in any other case it goes to x from o.
-
+//It should work however I am not sure if it works because I have tried many methods and I am not able to edit text.I believe the game is restarting, but I am not sure due to this.
 
 
 instructions.text('Now, it is'+ currentplayer+'s turn!');
